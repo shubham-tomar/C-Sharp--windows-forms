@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\DC\bin\Debug\DC.exe.config
+C:\Users\admin\source\repos\DC\bin\Debug\DC.exe
+C:\Users\admin\source\repos\DC\bin\Debug\DC.pdb
+C:\Users\admin\source\repos\DC\obj\Debug\DC.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DC\obj\Debug\DC.DashBoard.resources
+C:\Users\admin\source\repos\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\admin\source\repos\DC\obj\Debug\DC.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\DC\obj\Debug\DC.exe
+C:\Users\admin\source\repos\DC\obj\Debug\DC.pdb
